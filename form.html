@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Form</title>
+    <style>
+        .form {
+            background-color: aqua;
+            margin-left: 100px;
+            margin-right: 300px;
+        }
+        
+        .input {
+            background-color: rgb(253, 215, 215);
+            margin-top: 20px;
+            margin-left: 500px;
+            align-items: 100px;
+        }
+        
+        .para {
+            color: rgb(11, 78, 41);
+            font-size: large;
+            font-weight: 100;
+            text-align: center;
+        }
+        
+        .but {
+            margin-top: 20px;
+            margin-left: 570px;
+            background-color: blue;
+            cursor: pointer;
+            padding: 14px;
+            font-size: large;
+            border-radius: 20px;
+        }
+        
+        .but:hover {
+            color: darkblue;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="form">
+        <h1>Welcome to the form of this website (Tester)</h1>
+        <p style="color: green; text-align: center;">This form has sucessfully submitted sucessfully</p>
+        <form action="form.php" method="post">
+            <input class="input" type="text" name="name" id="name" placeholder="name"><br>
+            <input class="input" type="password" name="pass" id="pass" placeholder="password"> <br>
+
+
+
+            <br>
+
+            <textarea class="input" name="feed" id="feed" cols="30" rows="10" placeholder="feedback"></textarea>
+            <br>
+            <button class="but">
+        Submit
+    </button>
+        </form>
+    </div>
+
+
+
+</body>
+
+</html>

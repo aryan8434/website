@@ -1,0 +1,184 @@
+.color {
+    position: absolute;
+    width: 741px;
+    height: 1024px;
+    left: 0.4px;
+    top: 0px;
+    background: #AAC4EB;
+}
+
+.phyy {
+    width: 137.6px;
+    height: 129.03px;
+    left: 319.42px;
+    top: 490.9px;
+}
+
+.text {
+    position: absolute;
+    width: 538.18px;
+    height: 124.28px;
+    left: 137.79px;
+    top: 272.14px;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 84px;
+    color: #412D2D;
+}
+
+.fott {
+    position: absolute;
+    width: 698.6px;
+    height: 1024px;
+    left: 741.4px;
+    top: 0px;
+}
+
+.workshop {
+    position: absolute;
+    width: 106px;
+    height: 28px;
+    left: 149.46px;
+    top: 630.03px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #412D2D;
+}
+
+.brg {
+    width: 123.84px;
+    height: 123.84px;
+    left: 333.18px;
+    top: 695.01px;
+}
+
+.engg {
+    width: 123.84px;
+    height: 125.05px;
+    left: 513.6px;
+    top: 695.01px;
+}
+
+.workk {
+    width: 120.77px;
+    height: 129.96px;
+    left: 142.07px;
+    top: 490.9px;
+}
+
+.workk:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.sdd {
+    width: 139.13px;
+    height: 123.84px;
+    left: 142.07px;
+    top: 695.01px;
+}
+
+.matt {
+    width: 123.84px;
+    height: 125.37px;
+    left: 513.6px;
+    top: 495.48px;
+}
+
+.phy {
+    position: absolute;
+    width: 85px;
+    height: 28px;
+    left: 346.72px;
+    top: 630.03px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #412D2D;
+}
+
+.math {
+    position: absolute;
+    width: 68px;
+    height: 28px;
+    left: 541.52px;
+    top: 630.03px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #412D2D;
+}
+
+.sdf {
+    position: absolute;
+    width: 104px;
+    height: 28px;
+    left: 151.49px;
+    top: 829.23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #412D2D;
+}
+
+.sdf:hover {
+    transform: scale(1.1);
+}
+
+.math:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.phy:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.eng {
+    position: absolute;
+    width: 80px;
+    height: 28px;
+    left: 529.98px;
+    top: 829.23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #412D2D;
+}
+
+.eng:hover {
+    transform: scale(1.1);
+}
+
+.bridge {
+    position: absolute;
+    width: 72px;
+    height: 28px;
+    left: 353.22px;
+    top: 828.95px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    color: #412D2D;
+}
+
+.bridge:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
